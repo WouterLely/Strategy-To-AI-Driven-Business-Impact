@@ -1,4 +1,4 @@
-# 🪄 Strategy-To-AI-Driven-Business-Impact
+## 🪄 Strategy-To-AI-Driven-Business-Impact
 
 **Simplicity: Strategy → AI → Measurable Business Impact**
 
@@ -8,7 +8,7 @@ At the end of the day: **tech for tech does not work — it’s about the busine
 
 ---
 
-## ✨ Purpose of this Repository
+✨ Purpose of this Repository
 
 Across organizations, strategy often gets trapped in slides, endless reports, or unaligned or intresting data projects. This repository shows how to:  
 
@@ -20,7 +20,7 @@ Across organizations, strategy often gets trapped in slides, endless reports, or
 
 ---
 
-## 🧭 Who This Is For
+🧭 Who This Is For
 
 - **Business Strategists** looking to see AI as a lever for growth 
 - **Adoption Teams** wanting to translate strategy into delivering impactful AI projects
@@ -29,7 +29,7 @@ Across organizations, strategy often gets trapped in slides, endless reports, or
 
 ---
 
-## 🔮 What You’ll Find Here
+🔮 What You’ll Find Here
 
 - **AI Maturity Models** – Insights and frameworks to assess and grow organizational AI capabilities  
 - **Collaboration Models** – How business and data teams can effectively co-create AI solutions  
@@ -39,7 +39,7 @@ Across organizations, strategy often gets trapped in slides, endless reports, or
 
 ---
 
-## ⚡ Approach
+⚡ Approach
 
 Complexity isn’t the enemy — unmanaged complexity is. This repository focuses on:  
 
@@ -50,7 +50,7 @@ Complexity isn’t the enemy — unmanaged complexity is. This repository focuse
 
 ---
 
-## 📚 Why This Matters
+📚 Why This Matters
 
 AI is not magic on its own—it’s a lever to amplify business outcomes. By combining strategic insight, maturity assessments, and practical AI implementations:  
 
@@ -60,7 +60,7 @@ AI is not magic on its own—it’s a lever to amplify business outcomes. By com
 
 ---
 
-## 🚫 What This Is Not
+🚫 What This Is Not
 
 ❌ Techniques and code  
 ❌ Proprietary company IP  
@@ -70,7 +70,7 @@ This repo is about **storytelling, frameworks, and applied simplicity**—showin
 
 ---
 
-## 🧙‍♂️ Moral of the Story
+🧙‍♂️ Moral of the Story
 
 **Complexity isn’t the enemy—unmanaged complexity is.**
 With clarity, frameworks, and the right AI approaches, strategy can be translated into real business impact—fast, measurable, and sustainable.

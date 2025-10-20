@@ -1,4 +1,4 @@
-# 💰 AI ROI – Return on Intelligence  
+# 💰 AI ROI – Return on Intelligence Examples
 
 **Simplicity: Strategy → AI → Measurable Business Impact**  
 
